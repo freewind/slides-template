@@ -6,7 +6,9 @@ Cloned from https://github.com/gnab/remark
 How to use it
 -------------
 
-Create markdown files, e.g. `your/slide.md`, and rendering it with: `http://.../slide.html?your/slide.md`
+Create markdown files, e.g. `your/slide.md`, and rendering it with: 
+
+    http://.../remark/slide.html?your/slide.md
 
 What's the difference with official one
 ----------------------------------------
